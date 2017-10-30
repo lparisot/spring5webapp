@@ -1,7 +1,5 @@
 package com.lpa.spring5webapp.model;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
